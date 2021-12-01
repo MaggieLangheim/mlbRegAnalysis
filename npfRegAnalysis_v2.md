@@ -22,7 +22,7 @@ ggplot(npf,
 
     ## `geom_smooth()` using formula 'y ~ x'
 
-![](npfRegAnalysis_v2_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](/unnamed-chunk-2-1.png)<!-- -->
 
 ### Next, we fit a model to the data. Below is a simple linear model of the relationship between stolen bases and total wins.
 
@@ -80,7 +80,7 @@ ggplot(npf,
 
     ## `geom_smooth()` using formula 'y ~ x'
 
-![](npfRegAnalysis_v2_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](unnamed-chunk-5-1.png)<!-- -->
 
 ### Next, we fit a model to the data. Below is a simple linear model of the relationship between caught stealing and total wins.
 
