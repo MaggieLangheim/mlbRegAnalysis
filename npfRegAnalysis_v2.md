@@ -37,7 +37,7 @@ ggplot(npf,
   theme(text = element_text(size = 14)) +
   labs(x = "Stolen Bases", y = "Wins")
 ```
-![](unnamed-chunk-4-1.png)<!-- -->
+![](unnamed-chunk-3-1.png)<!-- -->
 
 ### Next, we fit a model to the data. Below is a simple linear model of the relationship between stolen bases and total wins.
 
