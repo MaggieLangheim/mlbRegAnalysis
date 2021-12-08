@@ -66,6 +66,7 @@ ggplot(npf2,
   theme(text = element_text(size = 14)) +
   labs(x = "Runners Caught Stealing", y = "Wins")
 ```
+![](unnamed-chunk-5-1.png)<!-- -->
 
 ### Next, we fit a model to the data. Below is a simple linear model of the relationship between caught stealing and total wins.
 
